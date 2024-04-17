@@ -1,0 +1,44 @@
+.content-height {
+  height: calc(100vh - 64px);
+}
+.all-height {
+  height: 100vh;
+}
+
+.width-10vw {
+  width: 10vw;
+}
+
+.width-80vw-100 {
+  width: calc(80vw - 100px);
+}
+
+.width-80vw-50 {
+  width: calc(80vw - 50px);
+}
+
+.font-red {
+  color: #d03050;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.icon-button {
+  padding: 0;
+}
+
+.tooltips-trigger {
+  color: #36ad6a;
+}
+
+#navigation {
+  /* min-width: 100vW;
+  max-width: 100vW; */
+  color: white;
+  background: #343a40;
+  position: fixed;
+  top: 0;
+  z-index: 5;
+}

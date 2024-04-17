@@ -1,0 +1,1 @@
+import{aj as c,r as o,c as n}from"./CDMwRna9.js";const d=c("layout",()=>{const e=o(window.innerWidth),s=o(e.value<600),r=n(()=>e.value),i=n(()=>s.value);return{getScreenWidth:r,getIsMobile:i,setScreenWidth:t=>{e.value=t},setIsMobile:t=>{s.value=t}}});export{d as u};
